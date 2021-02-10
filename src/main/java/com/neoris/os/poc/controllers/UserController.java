@@ -21,7 +21,7 @@ import java.util.List;
  * 1.0      08/02/2021/11:11 a. m.         [Diego Colchado S.]              NEORIS	    Creacion de clase UserController.java
  */
 @RestController
-@CrossOrigin(origins =  "http://localhost:4200")
+@CrossOrigin(origins =  "http://poc-angular-git-poc-angular3.apps.devsecops.zkhj.p1.openshiftapps.com")
 public class UserController {
     /**
      * Repositorio de Usuario
